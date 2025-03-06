@@ -38,8 +38,8 @@ Ensure you have **Java 21** and **Maven** installed.
 
 Clone the repository:
 ```sh
-git clone https://github.com/your-repo/TransactionMicroService.git
-cd TransactionMicroService
+git clone https://github.com/chengao11/Transaction.git
+cd Transaction
 ```
 
 Build the project:
